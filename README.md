@@ -35,3 +35,7 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
+
+## My Mods
+
+- `Makefile.config` is a custom config for my machine.
